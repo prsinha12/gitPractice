@@ -1,0 +1,3 @@
+2a) Having easy access to the entire history of a file can make someone a more efficient programmer in the long term by allowing them to have more frequent access to changes made in the past. 
+ b) As a programmer, someone would want to have a version of their code saved at regular intervals to ensure their work is being saved as they progress. This way, there is a greater chance none of their work will be deleted or get lost.
+ c) The importance of commit messages is to allow communication between team members. Also, it allows members to see the history of a project and identify when and why changes were made.
